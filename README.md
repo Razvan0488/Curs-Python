@@ -1,0 +1,1 @@
+In acest repo am postat in primul folder(Sedinte live ) exercitii pe care le-am lucrat alaturi de trainer in timpul orelor de curs, iar in al doilea folder(Teme) temele pe care le-am lucrat acasa.
